@@ -10,12 +10,14 @@ Was interessiert mich, ist genau dieses „Nichts“ — neutral, würde ich ger
 <br>
 <br>
 
-
+(文本)
 
 
 
 ## Wahrnehmung / Körperlichkeit
 
+(文本)
+(SC文件)
 - Das Schwebungsphänomen
 
 
@@ -42,6 +44,7 @@ Was interessiert mich, ist genau dieses „Nichts“ — neutral, würde ich ger
 
 ## Mathematik / Komposition
 
+(文本)
 -   Stockhausen <br>
     studie i  - frequenz <br>
     mantra  - ring modulation <br>
@@ -50,10 +53,13 @@ Was interessiert mich, ist genau dieses „Nichts“ — neutral, würde ich ger
 
 - Der borromäische Knoten
 
+(文本)
+
 ![Whiteboard---Di.,-20.-Oktober-2020](https://github.com/mewithoutnara/knot-research/blob/main/Whiteboard---Di.,-20.-Oktober-2020.png "Skizze")
 
 
 
+(Problemstellung)
 
 
 
