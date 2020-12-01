@@ -19,17 +19,13 @@ Was interessiert mich, ist genau dieses „Nichts“ — neutral, würde ich ger
 (文本) <br>
 
 [Das Schwebungsphänomen](https://github.com/mewithoutnara/SinustonStudie/blob/f51e11eecbf896bb233415354d4856075de13e88/1202.scd#L7-L25)<br>
-
-
-- Der dritte Ton
-
-   1200hz, 2000hz
-
-- ring modulation
-
-- alvin lucier
-
-   wave songs
+<br>
+[Der dritte Ton] (https://github.com/mewithoutnara/SinustonStudie/blob/f51e11eecbf896bb233415354d4856075de13e88/1202.scd#L32-L36) <br>
+<br>
+ring modulation
+<br>
+alvin lucier
+wave songs
 
 
 
