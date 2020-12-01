@@ -17,12 +17,10 @@ Was interessiert mich, ist genau dieses „Nichts“ — neutral, würde ich ger
 ## Wahrnehmung / Körperlichkeit
 
 (文本) <br>
-
+[Der dritte Ton / Otoakustische Emissionen](https://github.com/mewithoutnara/SinustonStudie/blob/f51e11eecbf896bb233415354d4856075de13e88/1202.scd#L32-L36)
+<sup>[1](#myfootnote1)</sup> <br>
+<br>
 [Das Schwebungsphänomen](https://github.com/mewithoutnara/SinustonStudie/blob/f51e11eecbf896bb233415354d4856075de13e88/1202.scd#L7-L25)<br>
-<br>
-[Der dritte Ton](https://github.com/mewithoutnara/SinustonStudie/blob/f51e11eecbf896bb233415354d4856075de13e88/1202.scd#L32-L36)<br>
-<br>
-[Ring Modulation](https://github.com/mewithoutnara/SinustonStudie/blob/f51e11eecbf896bb233415354d4856075de13e88/1202.scd#L43-L56)<br>
 <br>
 alvin lucier
 wave songs
@@ -44,7 +42,8 @@ wave songs
 -   Stockhausen <br>
     studie i  - frequenz <br>
     mantra  - ring modulation <br>
-
+    <br>
+[Ring Modulation](https://github.com/mewithoutnara/SinustonStudie/blob/f51e11eecbf896bb233415354d4856075de13e88/1202.scd#L43-L56)<br>
 
 
 - Der borromäische Knoten
@@ -69,3 +68,6 @@ wave songs
 *Lucier, Alvin: Reflexionen* <br>
 *Lacan, Jacques: Fadenringe* <br>
 *Rohrhuber, Julian: Raum als Reuse: Lacan und die Topologie* <br>
+
+## Einzelnachweise
+<a name="myfootnote1">1</a>: *[Otoakustische Emissionen](https://de.wikipedia.org/wiki/Otoakustische_Emissionen) <br>
