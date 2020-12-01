@@ -20,7 +20,8 @@ Was interessiert mich, ist genau dieses „Nichts“ — neutral, würde ich ger
 [Der dritte Ton / Otoakustische Emissionen](https://github.com/mewithoutnara/SinustonStudie/blob/f51e11eecbf896bb233415354d4856075de13e88/1202.scd#L32-L36)
 <sup>[1](#myfootnote1)</sup> <br>
 <br>
-[Das Schwebungsphänomen](https://github.com/mewithoutnara/SinustonStudie/blob/f51e11eecbf896bb233415354d4856075de13e88/1202.scd#L7-L25)<br>
+[Das Schwebungsphänomen](https://github.com/mewithoutnara/SinustonStudie/blob/f51e11eecbf896bb233415354d4856075de13e88/1202.scd#L7-L25)
+<sup>[2](#myfootnote2)</sup> <br>
 <br>
 alvin lucier
 wave songs
@@ -70,4 +71,5 @@ wave songs
 *Rohrhuber, Julian: Raum als Reuse: Lacan und die Topologie* <br>
 
 ## Einzelnachweise
-<a name="myfootnote1">1</a>: *[Otoakustische Emissionen](https://de.wikipedia.org/wiki/Otoakustische_Emissionen) <br>
+<a name="myfootnote1">1</a>: <i>[Otoakustische Emissionen](https://de.wikipedia.org/wiki/Otoakustische_Emissionen)<i> <br>
+<a name="myfootnote2">2</a>: <i>[Schwebung](https://de.wikipedia.org/wiki/Schwebung)<i> <br>
