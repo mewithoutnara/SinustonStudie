@@ -22,7 +22,7 @@ Was interessiert mich, ist genau dieses „Nichts“ — neutral, würde ich ger
 <br>
 [Der dritte Ton](https://github.com/mewithoutnara/SinustonStudie/blob/f51e11eecbf896bb233415354d4856075de13e88/1202.scd#L32-L36)<br>
 <br>
-[Ring Modulation]
+[Ring Modulation](https://github.com/mewithoutnara/SinustonStudie/blob/f51e11eecbf896bb233415354d4856075de13e88/1202.scd#L43-L56)<br>
 <br>
 alvin lucier
 wave songs
