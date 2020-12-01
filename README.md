@@ -12,13 +12,13 @@ Was interessiert mich, ist genau dieses „Nichts“ — neutral, würde ich ger
 
 ## Wahrnehmung / Körperlichkeit
 <br>
-Mein ausgänglicher Versuch mit Sinuston geht um die Wahrnehmung und um die Körperlichkeit — Wie hört man den Sinustöne zu? Wie erkennen die Ohren die Sinustöne? Mit dem Lernprozess von SuperCollider habe ich die folgenden zwei Beispiele geschrieben. Das Zuhören ist mir personlich. Versuchen Sie gerne der Link zu klicken und selbst in SuperCollider auszuführen.<br>
+Mein ausgänglicher Versuch mit Sinuston geht um die Wahrnehmung und um die Körperlichkeit — Wie hört man den Sinustöne zu? Wie erkennen die Ohren die Sinustöne? Mit dem Lernprozess von SuperCollider habe ich die folgenden zwei Beispiele geschrieben. <br>
+Das Zuhören ist mir personlich. Versuchen Sie bitte gerne mal den Link zu klicken und selbst in SuperCollider auszuführen. <br>
 <br>
 
 [Der dritte Ton / Otoakustische Emissionen](https://github.com/mewithoutnara/SinustonStudie/blob/f51e11eecbf896bb233415354d4856075de13e88/1202.scd#L32-L36)
 <sup>[1](#myfootnote1)</sup> <br>
 <br>
-
 [Das Schwebungsphänomen](https://github.com/mewithoutnara/SinustonStudie/blob/f51e11eecbf896bb233415354d4856075de13e88/1202.scd#L7-L25)
 <sup>[2](#myfootnote2)</sup> <br>
 <br>
