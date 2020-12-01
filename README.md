@@ -20,9 +20,9 @@ Was interessiert mich, ist genau dieses „Nichts“ — neutral, würde ich ger
 
 [Das Schwebungsphänomen](https://github.com/mewithoutnara/SinustonStudie/blob/f51e11eecbf896bb233415354d4856075de13e88/1202.scd#L7-L25)<br>
 <br>
-[Der dritte Ton] (https://github.com/mewithoutnara/SinustonStudie/blob/f51e11eecbf896bb233415354d4856075de13e88/1202.scd#L32-L36) <br>
+[Der dritte Ton](https://github.com/mewithoutnara/SinustonStudie/blob/f51e11eecbf896bb233415354d4856075de13e88/1202.scd#L32-L36)<br>
 <br>
-ring modulation
+[Ring Modulation]
 <br>
 alvin lucier
 wave songs
