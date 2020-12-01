@@ -16,10 +16,10 @@ Was interessiert mich, ist genau dieses „Nichts“ — neutral, würde ich ger
 
 ## Wahrnehmung / Körperlichkeit
 
-(文本)
-(SC文件)
-Das Schwebungsphänomen <br>
-<https://github.com/mewithoutnara/SinustonStudie/blob/f51e11eecbf896bb233415354d4856075de13e88/1202.scd#L7-L25>
+(文本) <br>
+
+[Das Schwebungsphänomen](https://github.com/mewithoutnara/SinustonStudie/blob/f51e11eecbf896bb233415354d4856075de13e88/1202.scd#L7-L25)<br>
+
 
 - Der dritte Ton
 
