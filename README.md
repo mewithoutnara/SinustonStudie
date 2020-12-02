@@ -33,7 +33,7 @@ von Alvin Lucier ist mir inspirierend. Da kommen zuerst mal zwei Sinustöne mit 
 
 ## Mathematik / Komposition <br>
 <br>
-Weiterer Wunsch geht es darum, dass ich einigen algorithmischen- elektronischen Kompositionen analysieren, und so teilweise ansatzweise nachzuentwickeln, um Verständnis zu erweitern.<br>
+Weiterer Wunsch geht es darum, dass ich einigermaßen algorithmischen- elektronischen Kompositionen analysieren, und so teilweise ansatzweise nachzuentwickeln, um Verständnis zu erweitern.<br>
 Stockhausen <br>
 Studie i - Reihensystem -> Frequenz, Schallstärke, Zeitdauer, Hüllkurven -> Gruppen <br>
 Mantra  - 2 Klaviere mit Ringmodulatoren <br>
