@@ -1,5 +1,4 @@
 # SinustonStudie
-*Die Subjektivität des Sinustons als Schallobjekt* <br>
 <br>
 <br>
 
@@ -12,8 +11,8 @@ Was interessiert mich, ist genau dieses „Nichts“ — neutral, würde ich ger
 
 ## Wahrnehmung / Körperlichkeit
 <br>
-Mein ausgänglicher Versuch mit Sinuston geht um die Wahrnehmung und um die Körperlichkeit — Wie hört man den Sinustöne zu? Wie erkennen die Ohren die Sinustöne? Mit dem Lernprozess von SuperCollider habe ich die folgenden zwei Beispiele geschrieben. <br>
-Das Zuhören ist mir personlich. Versuchen Sie bitte gerne mal den Link zu klicken und selbst in SuperCollider auszuführen. <br>
+Mein ausgänglicher Versuch mit Sinuston geht um die Wahrnehmung und um die Körperlichkeit — Wie hört man die Sinustöne an? Wie erkennen die Ohren die Sinustöne? Mit dem Lernprozess von SuperCollider habe ich die folgenden zwei Beispiele geschrieben. <br>
+Das Anhören ist mir personlich. Versuchen Sie bitte gerne mal den Link zu klicken und selbst in SuperCollider auszuführen. <br>
 <br>
 
 [Der dritte Ton / Otoakustische Emissionen](https://github.com/mewithoutnara/SinustonStudie/blob/f51e11eecbf896bb233415354d4856075de13e88/1202.scd#L32-L36)
@@ -22,9 +21,10 @@ Das Zuhören ist mir personlich. Versuchen Sie bitte gerne mal den Link zu klick
 [Das Schwebungsphänomen](https://github.com/mewithoutnara/SinustonStudie/blob/f51e11eecbf896bb233415354d4856075de13e88/1202.scd#L7-L25)
 <sup>[2](#myfootnote2)</sup> <br>
 <br>
-Dann überlege ich mir, wie es sich anhört, wenn die Sinustöne mit dem Körper auf gewisser Weise abspielen.
+Dann überlege ich mir, wie es sich anhört, wenn die Sinustöne mit dem Körper auf gewisser Weise spielen.
 Das Stück <i>„Wave Songs - for Female Voice with pure Wave Oscillators“<sup>[3](#myfootnote3)</sup> </i>
-von Alvin Lucier ist mir inspirierend. Da kommen zuerst mal zwei Sinustöne mit sehr engeren Frequenzen, die Sängerin hält ihre Stimme dagegen, inzwischen hört man das Schwebungsphänomen drumherum.<br>
+von Alvin Lucier ist mir inspirierend. Da kommen zuerst mal zwei Sinustöne mit sehr engeren Frequenzen, die Sängerin hält ihre Stimme dagegen, inzwischen hört man das Schwebungsphänomen drumherum. Anhand von diesem Ansatz hat Lucier viele Stücke mit anderen Instrumenten geschrieben. Ich würde gerne auch mal ausprobieren!<br>
+
 
 ![wave songs](https://github.com/mewithoutnara/SinustonStudie/blob/main/wave%20songs.png?raw=true "note")
 
