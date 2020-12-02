@@ -47,6 +47,7 @@ von Alvin Lucier ist mir inspirierend. Da kommen zuerst mal zwei Sinustöne mit 
 [Ring Modulation](https://github.com/mewithoutnara/SinustonStudie/blob/f51e11eecbf896bb233415354d4856075de13e88/1202.scd#L43-L56)<br>
 <br>
 <br>
+
 - Der borromäische Knoten - Fortsetzung mit Jacques Lacan <br>
 <br>
 Ohne der dritte Ringe wäre die anderen bloß nur vorbeigegangen - Jeder Ring ist derjenige dritte für die beiden anderen. 
