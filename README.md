@@ -22,9 +22,13 @@ Das Zuhören ist mir personlich. Versuchen Sie bitte gerne mal den Link zu klick
 [Das Schwebungsphänomen](https://github.com/mewithoutnara/SinustonStudie/blob/f51e11eecbf896bb233415354d4856075de13e88/1202.scd#L7-L25)
 <sup>[2](#myfootnote2)</sup> <br>
 <br>
-alvin lucier
-wave songs
+Dann überlege ich mir, wie es sich anhört, wenn die Sinustöne mit dem Körper auf gewisser Weise abspielen. 
+<br>
+Das Stück <i>„Wave Songs - for Female Voice with pure Wave Oscillators“<i> 
+<sup>[3](#myfootnote3)</sup> 
+von Alvin Lucier ist mir inspirierend. Da kommen zuerst mal zwei Sinustöne mit sehr engeren Frequenzen, die Sängerin hält ihre Stimme dagegen, inzwischen hört man das Schwebungsphänomen drumherum.
 
+![wave songs](https://github.com/mewithoutnara/SinustonStudie/blob/main/wave%20songs.png?raw=true "note")
 
 
 
@@ -72,3 +76,4 @@ wave songs
 ## Einzelnachweise
 <a name="myfootnote1">1</a>: <i>[Otoakustische Emissionen](https://de.wikipedia.org/wiki/Otoakustische_Emissionen)<i> <br>
 <a name="myfootnote2">2</a>: <i>[Schwebung](https://de.wikipedia.org/wiki/Schwebung)<i> <br>
+<a name="myfootnote3">3</a>: <i>[Wave Songs score](http://www2.tate.org.uk/intermediaart/mp3/alvinlucierpdfs/wave_song_score.pdf)<i> <br>
