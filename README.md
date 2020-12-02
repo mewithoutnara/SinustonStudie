@@ -23,7 +23,7 @@ Das Anhören ist mir personlich. Versuchen Sie bitte gerne mal den Link zu klick
 <br>
 Dann überlege ich mir, wie es sich anhört, wenn die Sinustöne mit dem Körper auf gewisser Weise spielen.
 Das Stück <i>„Wave Songs - for Female Voice with pure Wave Oscillators“<sup>[3](#myfootnote3)</sup> </i>
-von Alvin Lucier ist mir inspirierend. Da kommen zuerst mal zwei Sinustöne mit sehr engeren Frequenzen, die Sängerin hält ihre Stimme dagegen, inzwischen hört man das Schwebungsphänomen drumherum. Anhand von diesem Ansatz hat Lucier viele Stücke mit anderen Instrumenten geschrieben. Ich würde gerne auch mal ausprobieren!<br>
+von Alvin Lucier ist mir inspirierend. Da kommen zuerst mal zwei Sinustöne mit sehr engeren Frequenzen. Die Sängerin hält ihre Stimme dagegen. Inzwischen hört man das Schwebungsphänomen drumherum. Anhand von diesem Ansatz hat Lucier viele Stücke mit anderen Instrumenten geschrieben. Ich würde gerne auch mal ausprobieren!<br>
 
 
 ![wave songs](https://github.com/mewithoutnara/SinustonStudie/blob/main/wave%20songs.png?raw=true "note")
