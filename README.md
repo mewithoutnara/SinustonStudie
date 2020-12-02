@@ -38,17 +38,18 @@ von Alvin Lucier ist mir inspirierend. Da kommen zuerst mal zwei Sinustöne mit 
 
 
 
-## Mathematik / Komposition
+## Mathematik / Komposition <br>
+<br>
+Weiterer Wunsch geht es darum, dass ich einigen algorithmischen- elektronischen Kompositionen analysieren, und so teilweise ansatzweise nachzuentwickeln, um Verständnis zu erweitern.<br>
+Stockhausen <br>
+Studie i - Reihensystem -> Frequenz, Schallstärke, Zeitdauer, Hüllkurven -> Gruppen <br>
+Mantra  - 2 Klaviere mit Ringmodulatoren <br>
 
-(文本, 写不动了)<br>
-- Stockhausen <br>
- studie i  - frequenz <br>
- mantra  - ring modulation <br>
 [Ring Modulation](https://github.com/mewithoutnara/SinustonStudie/blob/f51e11eecbf896bb233415354d4856075de13e88/1202.scd#L43-L56)<br>
 <br>
 <br>
 
-- Der borromäische Knoten - Fortsetzung mit Jacques Lacan <br>
+Der borromäische Knoten - Fortsetzung mit Jacques Lacan <br>
 <br>
 Ohne der dritte Ringe wäre die anderen bloß nur vorbeigegangen - Jeder Ring ist derjenige dritte für die beiden anderen. 
 Was also Subjekt war, wird Objekt, was Objekt war, Subjekt.<br>
