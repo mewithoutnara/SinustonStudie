@@ -26,14 +26,7 @@ Das Stück <i>„Wave Songs - for Female Voice with pure Wave Oscillators“<sup
 von Alvin Lucier ist mir inspirierend. Da kommen zuerst mal zwei Sinustöne mit sehr engeren Frequenzen. Die Sängerin hält ihre Stimme dagegen. Inzwischen hört man das Schwebungsphänomen drumherum. Anhand von diesem Ansatz hat Lucier viele Stücke mit anderen Instrumenten geschrieben. Ich würde gerne auch mal ausprobieren!<br>
 
 
-![wave songs](https://github.com/mewithoutnara/SinustonStudie/blob/main/wave%20songs.png?raw=true "note")
-
-
-
-
-
-
-
+![wave songs](https://github.com/mewithoutnara/SinustonStudie/blob/main/wave%20songs.png?raw=true "note")<br>
 
 
 
@@ -56,10 +49,10 @@ Was also Subjekt war, wird Objekt, was Objekt war, Subjekt.<br>
 <br>
 
 ![Whiteboard---Di.,-20.-Oktober-2020](https://github.com/mewithoutnara/knot-research/blob/main/Whiteboard---Di.,-20.-Oktober-2020.png "Skizze") <br>
+<br>
 
 
-
-- Problemstellung <br>
+Problemstellung <br>
 Zeitplan <-> Leistungsfähigkeit <br>
 Nutzung des IMMs Räumes <-> kein Schlüssel <br>
 Mitarbeitsmöglichkeit <-> Kommunikation <br>
