@@ -40,27 +40,31 @@ von Alvin Lucier ist mir inspirierend. Da kommen zuerst mal zwei Sinustöne mit 
 
 ## Mathematik / Komposition
 
-(文本)
--   Stockhausen <br>
-    studie i  - frequenz <br>
-    mantra  - ring modulation <br>
-    <br>
+(文本)<br>
+- Stockhausen <br>
+ studie i  - frequenz <br>
+ mantra  - ring modulation <br>
 [Ring Modulation](https://github.com/mewithoutnara/SinustonStudie/blob/f51e11eecbf896bb233415354d4856075de13e88/1202.scd#L43-L56)<br>
+<br>
+<br>
+- Der borromäische Knoten - Fortsetzung mit Jacques Lacan <br>
+<br>
+Ohne der dritte Ringe wäre die anderen bloß nur vorbeigegangen - Jeder Ring ist derjenige dritte für die beiden anderen. 
+Was also Subjekt war, wird Objekt, was Objekt war, Subjekt.<br>
+<br>
 
-
-- Der borromäische Knoten
-
-(文本)
-
-![Whiteboard---Di.,-20.-Oktober-2020](https://github.com/mewithoutnara/knot-research/blob/main/Whiteboard---Di.,-20.-Oktober-2020.png "Skizze")
-
-
-
-(Problemstellung)
-
+![Whiteboard---Di.,-20.-Oktober-2020](https://github.com/mewithoutnara/knot-research/blob/main/Whiteboard---Di.,-20.-Oktober-2020.png "Skizze") <br>
 
 
 
+- Problemstellung <br>
+Zeitplan <-> Leistungsfähigkeit <br>
+Nutzung des IMMs Räumes <-> kein Schlüssel <br>
+Mitarbeitsmöglichkeit <-> Kommunikation <br>
+
+<br>
+<br>
+<br>
 
 ## Referenz
 *Stockhausen, Karlheiz: Komposition 1953 Nr.2 (Analyse der ‚Studie I‘)* <br>
