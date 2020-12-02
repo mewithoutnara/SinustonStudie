@@ -40,7 +40,7 @@ von Alvin Lucier ist mir inspirierend. Da kommen zuerst mal zwei Sinustöne mit 
 
 ## Mathematik / Komposition
 
-(文本)<br>
+(文本, 写不动了)<br>
 - Stockhausen <br>
  studie i  - frequenz <br>
  mantra  - ring modulation <br>
