@@ -33,16 +33,16 @@ Versuch #1
 
 ```supercollider
 
-//“... feldman becomes speacialist in as, in music , that is as slow as possible… and 
+// “... feldman becomes speacialist in as, in music, that is as slow as possible… and 
 
 // as soft as possible.” - Karlheinz Stockhausen, English Lectures (1972)
 
 (////////relative indeterminant small group of sinewaves
 a = {
     var freq, env, osc;
-	~size = [1, 2, 3, 5, 8].choose; // the size of group -> how many each time, sometime only one individual
+	~size = [1, 2, 3, 5, 8].choose; // the size of group -> global, how many each time, sometimes only one individual
 	freq = Array.exprand(~size, 550.0, 5500.0); // pitch
-	env = Env.sine(dur: freq/110, level: 110/freq); // duration and volume
+	env = Env.sine(dur: freq/110, level: 110/freq); // dur and amp
 	//env = Env.sine(dur: freq/1110, level: 110/freq); // alternative
   
 	osc = {SinOsc.ar(freq)};
@@ -55,9 +55,9 @@ a = {
 (//////////interval/silence
 fork{
 inf.do {a.play;
-		{[ ".",  "~"].choose.post}.dup(~size); // gespielt süß...
+		{[ ".",  "~"].choose.post}.dup(~size); // gespielt süß... use the global parameter ~size
 		"".postln;
-		exprand(0.1, 50.0).wait; // band width of interval, limit of time
+		exprand(0.1, 50.0).wait; // band width of interval -> limit of time
 }
 }
 )
