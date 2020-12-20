@@ -33,7 +33,7 @@ Versuch #1
 
 ```supercollider
 
-// “... feldman becomes speacialist in as, in music, that is as slow as possible… and 
+// “... feldman becomes specialist in as, in music, that is as slow as possible… and 
 
 // as soft as possible.” - Karlheinz Stockhausen, English Lectures (1972)
 
@@ -65,7 +65,7 @@ inf.do {a.play;
 
 // 进一步-> stockhausen studie i
 // point, group, mass
-// statistically, precisely, systematic - indeterminacy, change operation?
+// statistically, precisely, systematic - indeterminacy, chane operation?
 // ...
 
 ```
