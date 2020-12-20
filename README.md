@@ -11,7 +11,7 @@ Was interessiert mich, ist genau dieses „Nichts“ — neutral, würde ich ger
 
 ## Wahrnehmung / Körperlichkeit
 <br>
-Mein ausgehender Versuch mit Sinuston geht um die Wahrnehmung und um die Körperlichkeit — Wie hört man die Sinustöne an? Wie erkennen die Ohren die Sinustöne? Mit dem Lernprozess von SuperCollider habe ich die folgenden zwei Beispiele geschrieben. <br>
+Mein ausgänglicher Versuch mit Sinuston geht um die Wahrnehmung und um die Körperlichkeit — Wie hört man die Sinustöne an? Wie erkennen die Ohren die Sinustöne? Mit dem Lernprozess von SuperCollider habe ich die folgenden zwei Beispiele geschrieben. <br>
 Das Anhören ist mir personlich. Versuchen Sie bitte gerne mal den Link zu klicken und selbst in SuperCollider auszuführen. <br>
 <br>
 
