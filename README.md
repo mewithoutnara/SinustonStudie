@@ -11,7 +11,7 @@ Was interessiert mich, ist genau dieses „Nichts“ — neutral, würde ich ger
 
 ## Wahrnehmung / Körperlichkeit
 <br>
-Mein ausgänglicher Versuch mit Sinuston geht um die Wahrnehmung und um die Körperlichkeit — Wie hört man die Sinustöne an? Wie erkennen die Ohren die Sinustöne? Mit dem Lernprozess von SuperCollider habe ich die folgenden zwei Beispiele geschrieben. <br>
+Mein ausgehender Versuch mit Sinuston geht um die Wahrnehmung und um die Körperlichkeit — Wie hört man die Sinustöne an? Wie erkennen die Ohren die Sinustöne? Mit dem Lernprozess von SuperCollider habe ich die folgenden zwei Beispiele geschrieben. <br>
 Das Anhören ist mir personlich. Versuchen Sie bitte gerne mal den Link zu klicken und selbst in SuperCollider auszuführen. <br>
 <br>
 
@@ -49,17 +49,10 @@ Was also Subjekt war, wird Objekt, was Objekt war, Subjekt.<br>
 <br>
 
 ![Whiteboard---Di.,-20.-Oktober-2020](https://github.com/mewithoutnara/knot-research/blob/main/Whiteboard---Di.,-20.-Oktober-2020.png "Skizze") <br>
-<br>
-
-
-Problemstellung <br>
-Zeitplan <-> Leistungsfähigkeit <br>
-Nutzung des IMMs Räumes <-> kein Schlüssel <br>
-Mitarbeitsmöglichkeit <-> Kommunikation <br>
 
 <br>
 <br>
-<br>
+
 
 ## Referenz
 *Stockhausen, Karlheiz: Komposition 1953 Nr.2 (Analyse der ‚Studie I‘)* <br>
