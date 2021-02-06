@@ -55,7 +55,7 @@ a = {
 (//////////interval/silence
 fork{
 inf.do {a.play;
-		{[ ".",  "~"].choose.post}.dup(~size); // gespielt süß... use the global parameter ~size
+		{[ ".",  "~"].choose.post}.dup(~size); // use the global parameter ~size
 		"".postln;
 		exprand(0.1, 50.0).wait; // band width of interval -> limit of time
 }
@@ -71,6 +71,77 @@ inf.do {a.play;
 ```
 
 <br>
+
+Versuch #2.1 - 3xSinOsc, eng frequenziert
+
+```supercollider
+(
+t = Task({
+          11.do{|i|
+                var morph = 27*i;
+	            ("i-morph" ++ morph).postln;
+		
+               "l_sin_fadeTime:".post; // sinuston links
+		  Ndef(\l_sin).fadeTime = [5,8,13,21].choose.postln;
+          Ndef(\l_sin,
+			   {SinOsc.ar(
+				          freq: 
+				          (("f#5".namecps) * exprand(0.21, 0.26) + morph + SinOsc.kr(1/13, 0, pi.rand)).poll(0.1),
+				          mul: "l_sin_amp:".post;
+				          [0.11, 0.22, 0.33].choose.postln;)
+		        });
+
+
+		  Ndef(\l_sin).play(0, 1);
+
+" ".postln;
+
+		      "z_sin_fadeTime:".post; // sinuston im zentrum
+		  Ndef(\z_sin).fadeTime = [8,13,21].choose.postln;
+		  Ndef(\z_sin,
+			  {SinOsc.ar(
+				         freq: 
+				         (("f#5".namecps) * exprand(0.21, 0.28) + morph + SinOsc.kr(1/13, 0, pi.rand)).poll(0.1),
+				         mul: 
+				         "z_sin_amp:".post;
+				         [0.11, 0.22, 0.33].choose.postln;)
+		      });
+
+		  Ndef(\z_sin).play(0, 2);
+
+" ".postln;
+
+		     "r_sin_fadeTime:".post; //sinuston rechts
+		  Ndef(\r_sin).fadeTime = [8,13,21].choose.postln;
+		  Ndef(\r_sin,
+			  {SinOsc.ar(
+				         freq: 
+				         (("f#5".namecps) * exprand(0.21, 0.32) + morph + SinOsc.kr(1/13, 0, pi.rand)).poll(0.1),
+				         mul: 
+				         "r_sin_amp:".post;
+				         [0.11, 0.22, 0.33].choose.postln;)
+		      });
+
+		  Ndef(\r_sin).play(1, 1);
+
+" ".postln; 
+
+		 [13, 21, 34].choose.postln.wait;
+
+" ".postln; //换行
+};
+});
+)
+
+
+t.start;
+t.stop;
+
+Ndef(\l_sin).clear(8);
+Ndef(\z_sin).clear(13);
+Ndef(\r_sin).clear(5);
+
+```
 
 ## Referenz
 
