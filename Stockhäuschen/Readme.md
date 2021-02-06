@@ -29,7 +29,7 @@ between such limits is called a band. a band has a certain width... <br>
 
 <br>
 
-Versuch #1
+*Versuch #1*
 
 ```supercollider
 
@@ -72,7 +72,7 @@ inf.do {a.play;
 
 <br>
 
-Versuch #2.1 - 3xSinOsc, eng frequenziert
+*Versuch #2.1 - 3xSinOsc, eng frequenziert*
 
 ```supercollider
 (
