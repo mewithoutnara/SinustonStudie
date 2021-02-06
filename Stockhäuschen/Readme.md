@@ -72,7 +72,7 @@ inf.do {a.play;
 
 <br>
 
-*Versuch #2.1 - 3xSinOsc, eng frequenziert*
+*Versuch #2.1 - 3xSinOsc, eng frequentiert*
 
 ```supercollider
 (
