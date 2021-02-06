@@ -62,6 +62,7 @@ Was also Subjekt war, wird Objekt, was Objekt war, Subjekt.<br>
 *Lucier, Alvin: Reflexionen* <br>
 *Lacan, Jacques: Fadenringe* <br>
 *Rohrhuber, Julian: Raum als Reuse: Lacan und die Topologie* <br>
+*Rohrhuber, Julian / de Campo,Alberto - Uncertainty and Waiting* <br>
 
 ## Einzelnachweise
 <a name="myfootnote1">1</a>: <i>[Otoakustische Emissionen](https://de.wikipedia.org/wiki/Otoakustische_Emissionen)<i> <br>
