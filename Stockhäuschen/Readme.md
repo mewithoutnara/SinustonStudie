@@ -72,7 +72,74 @@ inf.do {a.play;
 
 <br>
 
-*Versuch #2.1 - 3xSinOsc, eng frequentiert*
+*Versuch #2.1 - 3xSinOsc, random freqs in 3 registers*
+
+```supercollider
+(
+t = Task({
+	loop{
+		(
+			"klang_l_fadeTime:".post;
+			Ndef(\klang_l).fadeTime = [5,8,13,21].choose.postln;
+			Ndef(\klang_l,
+				{SinOsc.ar(
+			freq: (("f#5".namecps) * exprand(0.11, 0.33) + SinOsc.kr(1/13, 0, pi.rand)).poll(0.1),
+		        mul: "klang_l_amp:".post;
+		        [0.11, 0.22, 0.33].choose.postln)
+			});
+
+
+			Ndef(\klang_l).play(0, 1);
+
+" ".postln;
+
+			"klang_c_fadeTime:".post;
+			Ndef(\klang_c).fadeTime = [8,13,21].choose.postln;
+			Ndef(\klang_c,
+				{SinOsc.ar(
+			freq: (("f#5".namecps) * exprand(0.33, 0.55) + SinOsc.kr(1/13, 0, pi.rand)).poll(0.1),
+		        mul: "klang_c_amp:".post;
+		        [0.11, 0.22, 0.33].choose.postln)
+			});
+
+			Ndef(\klang_c).play(0, 2);
+
+" ".postln;
+
+			"klang_r_fadeTime:".post;
+			Ndef(\klang_r).fadeTime = [8,13,21].choose.postln;
+			Ndef(\klang_r,
+				{SinOsc.ar(
+					freq: (("f#5".namecps) * exprand(0.55, 0.77) + SinOsc.kr(1/13, 0, pi.rand)).poll(0.1),
+					mul: "klang_r_amp:".post;
+					[0.11, 0.22, 0.33].choose.postln)
+			    });
+
+			Ndef(\klang_r).play(1, 1);
+
+" ".postln;
+
+			[13, 21, 34].choose.postln.wait;
+
+" ".postln;
+)};
+});
+)
+
+t.start;
+t.stop;
+
+Ndef(\klang_l).clear(8);
+Ndef(\klang_c).clear(13);
+Ndef(\klang_r).clear(5);
+
+```
+
+<br>
+
+
+
+*Versuch #2.2 - 3xSinOsc, eng frequentiert*
 
 ```supercollider
 (
@@ -80,16 +147,15 @@ t = Task({
           11.do{|i|
                 var morph = 27*i;
 	            ("i-morph" ++ morph).postln;
-		
+
                "l_sin_fadeTime:".post; // sinuston links
 		  Ndef(\l_sin).fadeTime = [5,8,13,21].choose.postln;
           Ndef(\l_sin,
 			   {SinOsc.ar(
-				          freq: 
-				          (("f#5".namecps) * exprand(0.21, 0.26) + morph + SinOsc.kr(1/13, 0, pi.rand)).poll(0.1),
-				          mul: "l_sin_amp:".post;
-				          [0.11, 0.22, 0.33].choose.postln;)
-		        });
+				freq:(("f#5".namecps) * exprand(0.21, 0.26) + morph + SinOsc.kr(1/13, 0, pi.rand)).poll(0.1),
+				mul: "l_sin_amp:".post;
+				[0.11, 0.22, 0.33].choose.postln;)
+		       });
 
 
 		  Ndef(\l_sin).play(0, 1);
@@ -100,11 +166,9 @@ t = Task({
 		  Ndef(\z_sin).fadeTime = [8,13,21].choose.postln;
 		  Ndef(\z_sin,
 			  {SinOsc.ar(
-				         freq: 
-				         (("f#5".namecps) * exprand(0.21, 0.28) + morph + SinOsc.kr(1/13, 0, pi.rand)).poll(0.1),
-				         mul: 
-				         "z_sin_amp:".post;
-				         [0.11, 0.22, 0.33].choose.postln;)
+			   freq:(("f#5".namecps) * exprand(0.21, 0.28) + morph + SinOsc.kr(1/13, 0, pi.rand)).poll(0.1),
+			   mul: "z_sin_amp:".post;
+			   [0.11, 0.22, 0.33].choose.postln;)
 		      });
 
 		  Ndef(\z_sin).play(0, 2);
@@ -115,20 +179,18 @@ t = Task({
 		  Ndef(\r_sin).fadeTime = [8,13,21].choose.postln;
 		  Ndef(\r_sin,
 			  {SinOsc.ar(
-				         freq: 
-				         (("f#5".namecps) * exprand(0.21, 0.32) + morph + SinOsc.kr(1/13, 0, pi.rand)).poll(0.1),
-				         mul: 
-				         "r_sin_amp:".post;
-				         [0.11, 0.22, 0.33].choose.postln;)
+				freq:(("f#5".namecps) * exprand(0.21, 0.32) + morph + SinOsc.kr(1/13, 0, pi.rand)).poll(0.1),
+				mul: "r_sin_amp:".post;
+				     [0.11, 0.22, 0.33].choose.postln;)
 		      });
 
 		  Ndef(\r_sin).play(1, 1);
 
-" ".postln; 
+" ".postln;
 
 		 [13, 21, 34].choose.postln.wait;
 
-" ".postln; //换行
+" ".postln;
 };
 });
 )
@@ -140,6 +202,7 @@ t.stop;
 Ndef(\l_sin).clear(8);
 Ndef(\z_sin).clear(13);
 Ndef(\r_sin).clear(5);
+
 
 ```
 
