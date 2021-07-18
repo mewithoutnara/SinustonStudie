@@ -1,4 +1,4 @@
-## Stockhäuschen/小斯托克豪森/小仓库 <br>
+## Stockhäuschen <br>
 
 erstellt am 14. 12. 2020
 
