@@ -1,3 +1,6 @@
+## Vergleich gleichstufiger Stimmungen mit 2 unterschiedlichen Werten
+
+
 ```supercollider
 
 // gleichstufige Stimmung/temperierte Stimmung 2**(1/12) 
@@ -9,10 +12,12 @@
 // -> 1.0664949422084
 
 ```
+<br>
+<br>
 
-Fragestellung:
-Wie könnte diese wenige Differenz zwischen zwei unterschiedlichen Stimmungen vertonen und zu einer algorithmischen Komposition entwickeln werden?
-Können akustische Phänomene als Ausgangspunkt einsetzen?
+## Fragen zum Konzipieren:
+Wie könnte diese wenige Differenz vertonen und zu einer algorithmischen Komposition entwickeln werden? <br>
+Wie könnte es interessant sein? (klanglich, akustisch, ästhetisch)
 
 
 <br>
