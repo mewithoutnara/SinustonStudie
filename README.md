@@ -26,7 +26,7 @@ Das Stück <i>„Wave Songs - for Female Voice with pure Wave Oscillators“<sup
 von Alvin Lucier ist mir inspirierend. Da kommen zuerst mal zwei Sinustöne mit sehr engeren Frequenzen. Die Sängerin hält ihre Stimme dagegen. Inzwischen hört man das Schwebungsphänomen drumherum. Anhand von diesem Ansatz hat Lucier viele Stücke mit anderen Instrumenten geschrieben. Ich würde gerne auch mal ausprobieren!<br>
 
 
-![wave songs](https://github.com/mewithoutnara/SinustonStudie/blob/main/wave%20songs.png?raw=true "note")<br>
+![wave songs](https://github.com/mewithoutnara/SinustonStudie/blob/notes-about/wave%20songs.png) <br>
 
 
 
